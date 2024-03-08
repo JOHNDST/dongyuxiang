@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/dongyuxiang/static/css/main.507a3381.css",
-    "main.js": "/dongyuxiang/static/js/main.c659afa6.js",
+    "main.css": "/dongyuxiang/static/css/main.35a0712b.css",
+    "main.js": "/dongyuxiang/static/js/main.eaa1450b.js",
     "static/media/portfolio-jobDYX.jpg": "/dongyuxiang/static/media/portfolio-jobDYX.8dfc692a37ec32721a3d.jpg",
     "index.html": "/dongyuxiang/index.html"
   },
   "entrypoints": [
-    "static/css/main.507a3381.css",
-    "static/js/main.c659afa6.js"
+    "static/css/main.35a0712b.css",
+    "static/js/main.eaa1450b.js"
   ]
 }
